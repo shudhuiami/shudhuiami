@@ -1,7 +1,6 @@
 # Ahamed Zobaer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedzobayer.com-blue)](https://ahmedzobayer.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-shudhuiami-brightgreen)](https://github.com/shudhuiami)
 [![NPM](https://img.shields.io/badge/NPM-shudhuiami-red)](https://www.npmjs.com/~shudhuiami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zobayer%20Me-blue)](https://www.linkedin.com/in/zobayer-me/)
 
