@@ -1,15 +1,27 @@
-# Ahamed Zobaer
+# Ahmed Zobayer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedzobayer.com-blue)](https://ahmedzobayer.com/)
-[![NPM](https://img.shields.io/badge/NPM-shudhuiami-red)](https://www.npmjs.com/~shudhuiami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zobayer%20Me-blue)](https://www.linkedin.com/in/zobayer-me/)
+**Senior Full Stack Engineer** · Laravel · Vue · React · TypeScript
 
-## Overview
+I turn messy business workflows into fast, multi-tenant SaaS, from the first wireframe to the production server.
 
-Hi there! I am Ahamed Zobaer, a highly motivated and skilled Full Stack Web Developer with a passion for delivering top-notch web solutions. With four years of hands-on experience, I have developed a strong set of technical skills and a deep understanding of the latest web development technologies. My expertise includes coding with PHP, Laravel, Angular, React, HTML5, CSS3, and JavaScript, which has allowed me to create high-performance, user-friendly websites and applications. I am also familiar with Flask Python framework and Tkinter GUI toolkit.
+[zobayer.me](https://zobayer.me) · [LinkedIn](https://www.linkedin.com/in/zobayer-me/) · [npm](https://www.npmjs.com/~shudhuiami) · zobayer.me@gmail.com
 
-In addition to my technical abilities, I have a strong understanding of project management and algorithms, enabling me to effectively manage project requirements and deliver results to the highest standards. I have experience working with Laravel MVC Pattern and have built custom JavaScript plugins, such as redishketch-romeo and vue-cli-laravel-pagination, to create innovative solutions. I am also proficient in handling Ubuntu and Linux servers.
+### What I build
 
-I am confident that my experience, skills, and passion make me an excellent candidate for any web development opportunity, and I am excited to bring my expertise to your team.
+- **Insurance claims at scale.** A US vehicle-warranty claims platform with 365K+ claims and 12K+ dealers. I cut duplicate cancellations by 99%.
+- **Bilingual SaaS for Saudi Arabia.** A school platform used by 50+ schools, a charity platform that has processed SAR 500K+, and an assessment system with 10K+ submissions. Arabic and English, RTL.
+- **Facility and asset management (UAE).** AI-assisted job creation, IoT sensor data, and the architecture and system design of an asset platform.
+- **My own products.** An offline-first point-of-sale PWA, a practice-management SaaS for doctors, and a Flutter fitness app.
 
-Feel free to check out my portfolio for more information and examples of my work. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
+### Open source
+
+- [**Encapsula**](https://github.com/shudhuiami/Encapsula): encrypts Laravel API responses with AES-256-GCM, with a TypeScript client to read them.
+- [**messenger-commerce-bot**](https://github.com/shudhuiami/messenger-commerce-bot): product Q&A and ordering inside Facebook Messenger.
+- [**Panchforon**](https://github.com/shudhuiami/panchforon): a recipe and meal planner that turns a week of meals into one shopping list (Laravel API + React 19).
+- [**WebJourney**](https://github.com/shudhuiami/WebJourney): step-by-step guides played on live websites (Chrome MV3 + SDK).
+
+### Toolbox
+
+Laravel · PHP 8 · Vue 3 · React · Angular · TypeScript · Tailwind · MySQL / MariaDB · Redis · Docker · AWS · GitHub Actions · Claude & Gemini APIs · Flutter
+
+Remote · any time zone · open to full-time roles
